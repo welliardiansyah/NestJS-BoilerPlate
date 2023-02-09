@@ -49,7 +49,7 @@
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
     "typeorm": "^0.3.11",
-    "ua-parser-js": "^1.0.32"
+    "ua-parser-js": "^1.0.33"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
